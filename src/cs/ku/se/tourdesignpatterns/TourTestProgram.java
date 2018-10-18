@@ -72,4 +72,10 @@ class TourTestProgram {
         packageTour.addTour(tour3);
         assertEquals("Remove, Khao Kho", packageTour.removeTour("Khao Kho"));
     }
+
+    @Test
+    public void singleTour_set_price(){
+        tour1.setPrice(1000);
+        assertEquals(1000, tour1.getPrice());
+    }
 }

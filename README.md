@@ -1,3 +1,3 @@
-Lab_Assignment 8 : Design Patterns
-This repository Duck Design Patterns program.
-Kittipich Chamool 5810450199 sec 200
+#Lab_Assignment 8 & 9 : Design Patterns <\br>
+This repository Design Patterns program.<\br>
+Kittipich Chamool 5810450199 sec 200<\br>
