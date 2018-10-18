@@ -1,6 +1,4 @@
-package csku.se.designpatterns;
-
-import java.io.PrintStream;
+package csku.se.duckdesignpatterns;
 
 public class QuackEcho implements Quackable {
 

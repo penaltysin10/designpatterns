@@ -1,4 +1,4 @@
-package csku.se.designpatterns;
+package csku.se.duckdesignpatterns;
 
 public class QuackCounter implements Quackable {
 

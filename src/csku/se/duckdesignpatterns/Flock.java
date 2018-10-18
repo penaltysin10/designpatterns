@@ -1,4 +1,4 @@
-package csku.se.designpatterns;
+package csku.se.duckdesignpatterns;
 
 import java.util.ArrayList;
 import java.util.Iterator;

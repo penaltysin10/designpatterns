@@ -1,6 +1,6 @@
-package csku.se.designpatterns;
+package csku.se.duckdesignpatterns;
 
-public class RedheadDuck implements Quackable {
+public class MallardDuck implements Quackable {
     @Override
     public void quack() {
         System.out.println("Quack");
